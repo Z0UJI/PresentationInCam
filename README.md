@@ -11,6 +11,20 @@ Table of Contents:
 
 # Outline
 
+## Personal Scope
+
+* Challenges in medical diagnosis
+
+* AI in early dedection of cancer
+
+  * a deep learning algorithm to diagnose skin cancer
+
+* AI in Pathology 
+
+  * a deep learning algorithm to observe biopsy
+
+* Some concluding thoughts on diagnostic AI
+
 ## Summary
 
 * Review of the above three
